@@ -1,1 +1,1 @@
-console.error(coooll)
+console.error("coooll")
